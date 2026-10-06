@@ -4,3 +4,4 @@ numpy
 scikit-learn
 jupyter
 streamlit
+plotly
